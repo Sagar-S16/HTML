@@ -1,0 +1,39 @@
+freola -- web editor
+ultraedit -- proffessional developer
+html - hypertext markup language
+--structure a webpage content
+The components used to design the structure of  websites are called Html tags.
+Html tag -- A container for some content or other HTML tags.
+html tag is parent of head and body tag
+Html is not case sensitive
+html attributes -- lang = "en"
+Heading tags -- used to display headings in  Html
+paragraph tag -- 
+toggle word wrap
+Anchor tag -- used to link to you pages
+Absolute link(different website)
+Relative link(same folder)
+Image tag
+bold italic and underline tags
+big and small tags
+Hr tags -- horizonatal ruler
+subscript and superscript tags
+pre tags
+Page layout techniques
+Semantic tags
+header
+main
+    section
+    article
+    aside(ads)
+footer
+
+div and span 
+lists
+    unordered
+    ordered
+Tables
+Forms
+class and Id
+iframe tags
+video tags (absolute and relative) -control autoplay loop
